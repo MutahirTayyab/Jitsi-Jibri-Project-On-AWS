@@ -41,7 +41,7 @@ Real `.env` files, AWS PEM keys, SSL private keys, public IPs, instance IDs, and
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/MutahirTayyab/jitsi-meet-production-setup.git
+git clone https://github.com/MutahirTayyab/Jitsi-Jibri-Project-On-AWS.git
 cd jitsi-meet-production-setup
 ```
 
