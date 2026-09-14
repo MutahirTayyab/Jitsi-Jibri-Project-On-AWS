@@ -3,7 +3,7 @@
 This project documents a Docker-based deployment of Jitsi Meet on AWS EC2 with a separate Jibri recording server. The setup includes HTTPS, DNS, security group rules, Jibri recording configuration, and troubleshooting notes.
 
 ## Architecture
-<img width="4182" height="1549" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/19560106-e68f-460a-978e-cb881049a8ce" />
+<img width="4182" height="1549" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/820ef9e2-b4b0-468f-8412-5930ab114564" />
 
 ## Main Features
 
@@ -41,8 +41,8 @@ Real `.env` files, AWS PEM keys, SSL private keys, public IPs, instance IDs, and
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/MutahirTayyab/jitsi-meet-production-setup.git
-cd jitsi-meet-production-setup
+git clone https://github.com/MutahirTayyab/Jitsi-Jibri-Project-On-AWS.git
+cd Jitsi-Jibri-Project-On-AWS
 ```
 
 ### 2. Prepare Jitsi EC2
