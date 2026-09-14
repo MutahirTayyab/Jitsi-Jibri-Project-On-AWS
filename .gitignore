@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .env
 *.pem
 *.key
@@ -9,7 +8,6 @@ ssl/
 recordings/
 *.mp4
 .DS_Store
-=======
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -228,4 +226,3 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
->>>>>>> 7c6d8a9940b67d37793be352d0b86bf87147879d
